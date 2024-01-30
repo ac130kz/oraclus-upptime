@@ -6,7 +6,7 @@ sites:
   - name: Oraclus
     url: https://oraclus.com
   - name: Oraclus Wallet APIs
-    url: https://api.oraclus.com/docs/sv1/swagger
+    url: https://api.oraclus.com/docs/sv1/swagger/
   - name: Oraclus Flow APIs
     url: https://leap.oraclus.com/api/docs
 
