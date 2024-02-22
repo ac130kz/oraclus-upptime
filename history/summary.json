@@ -22,35 +22,39 @@
     "url": "https://api.oraclus.com/docs/sv1/swagger/",
     "icon": "https://icons.duckduckgo.com/ip3/api.oraclus.com.ico",
     "slug": "oraclus-wallet-ap-is",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 463,
-    "timeDay": 608,
-    "timeWeek": 496,
-    "timeMonth": 463,
-    "timeYear": 463,
-    "dailyMinutesDown": {}
+    "time": 521,
+    "timeDay": 1329,
+    "timeWeek": 690,
+    "timeMonth": 521,
+    "timeYear": 521,
+    "dailyMinutesDown": {
+      "2024-02-22": 0
+    }
   },
   {
     "name": "Oraclus Flow APIs",
     "url": "https://leap.oraclus.com/api/docs",
     "icon": "https://icons.duckduckgo.com/ip3/leap.oraclus.com.ico",
     "slug": "oraclus-flow-ap-is",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 414,
-    "timeDay": 573,
-    "timeWeek": 443,
-    "timeMonth": 414,
-    "timeYear": 414,
-    "dailyMinutesDown": {}
+    "time": 419,
+    "timeDay": 562,
+    "timeWeek": 456,
+    "timeMonth": 419,
+    "timeYear": 419,
+    "dailyMinutesDown": {
+      "2024-02-22": 0
+    }
   }
 ]
