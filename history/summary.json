@@ -22,18 +22,20 @@
     "url": "https://api.oraclus.com/docs/sv1/swagger/",
     "icon": "https://icons.duckduckgo.com/ip3/api.oraclus.com.ico",
     "slug": "oraclus-wallet-ap-is",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 491,
-    "timeDay": 536,
-    "timeWeek": 424,
-    "timeMonth": 479,
-    "timeYear": 491,
-    "dailyMinutesDown": {}
+    "time": 492,
+    "timeDay": 544,
+    "timeWeek": 440,
+    "timeMonth": 482,
+    "timeYear": 492,
+    "dailyMinutesDown": {
+      "2024-05-27": 0
+    }
   },
   {
     "name": "Oraclus Flow APIs",
