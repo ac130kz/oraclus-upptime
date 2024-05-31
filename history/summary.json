@@ -43,17 +43,19 @@
     "url": "https://leap.oraclus.com/api/docs",
     "icon": "https://icons.duckduckgo.com/ip3/leap.oraclus.com.ico",
     "slug": "oraclus-flow-ap-is",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 436,
-    "timeDay": 378,
-    "timeWeek": 442,
-    "timeMonth": 428,
-    "timeYear": 436,
-    "dailyMinutesDown": {}
+    "time": 437,
+    "timeDay": 452,
+    "timeWeek": 452,
+    "timeMonth": 431,
+    "timeYear": 437,
+    "dailyMinutesDown": {
+      "2024-05-31": 0
+    }
   }
 ]
