@@ -1,7 +1,7 @@
 url: https://api.oraclus.com/docs/sv1/swagger/
-status: down
-code: 500
-responseTime: 2240
-lastUpdated: 2024-06-09T09:31:58.468Z
+status: up
+code: 200
+responseTime: 185
+lastUpdated: 2024-06-09T09:44:23.537Z
 startTime: 2024-01-30T06:12:48.652Z
 generator: Upptime <https://github.com/upptime/upptime>
