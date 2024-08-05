@@ -4,18 +4,20 @@
     "url": "https://oraclus.com",
     "icon": "https://icons.duckduckgo.com/ip3/oraclus.com.ico",
     "slug": "oraclus",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 426,
     "timeDay": 398,
     "timeWeek": 372,
     "timeMonth": 406,
     "timeYear": 426,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-05": 3
+    }
   },
   {
     "name": "Oraclus Wallet APIs",
@@ -23,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.oraclus.com.ico",
     "slug": "oraclus-wallet-ap-is",
     "status": "down",
-    "uptime": "99.52%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.52%",
+    "uptime": "99.51%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.51%",
     "time": 711,
     "timeDay": 482,
     "timeWeek": 511,
     "timeMonth": 496,
     "timeYear": 711,
     "dailyMinutesDown": {
-      "2024-08-05": 2,
+      "2024-08-05": 16,
       "2024-06-08": 260,
       "2024-05-28": 274,
       "2024-05-27": 764
@@ -47,9 +49,9 @@
     "slug": "oraclus-flow-ap-is",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.96%",
     "time": 432,
     "timeDay": 457,
@@ -57,7 +59,7 @@
     "timeMonth": 435,
     "timeYear": 432,
     "dailyMinutesDown": {
-      "2024-08-05": 0,
+      "2024-08-05": 14,
       "2024-05-31": 97
     }
   }
